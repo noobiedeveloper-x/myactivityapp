@@ -12,11 +12,6 @@ This project is a starting point for a Flutter application.
 
 # no changes for now 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+App Name: Number Guessing
+Humber unsung Came
+Instructions: Create a guessing number app using Flutter where users input guesses and receive feedback on whether their guess is higher or lower than the target number. Implement random number generation for the target number. Thoroughly test the app by running it and trying various inputs to ensure accurate feedback. Upon completion, the app should look similarly to the provided example.
