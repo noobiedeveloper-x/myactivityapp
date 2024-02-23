@@ -1,10 +1,16 @@
 # myactivityapp
 
-A new Flutter project.
+Flutter Acitivity Ma'am fatima
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+#Avoid Pushing to much
+#files is larger 512mb
+--Clyde 
+
+# no changes for now 
 
 A few resources to get you started if this is your first Flutter project:
 
